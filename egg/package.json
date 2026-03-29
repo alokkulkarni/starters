@@ -10,7 +10,7 @@
     "egg-view-nunjucks": "^2.3.0"
   },
   "devDependencies": {
-    "egg-bin": "^4.20.0"
+    "egg-bin": "^6.13.0"
   },
   "homepage": "https://github.com/atian25/webcontainer-egg"
 }
